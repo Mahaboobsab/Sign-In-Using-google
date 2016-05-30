@@ -1,0 +1,5 @@
+XSym
+0056
+af01cb905253aec2d0d0e61aa35a182c
+../../../GoogleSignIn/Headers/Public/GIDAuthentication.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
